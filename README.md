@@ -1,3 +1,5 @@
+ ![Demo](demo.png)
+ 
 # Akıllı Trafik Sinyal Optimizasyon Sistemi
 
 Bu proje, trafik sinyal optimizasyonu için derin öğrenme ve pekiştirmeli öğrenme yaklaşımlarını karşılaştıran bir sistemdir.
