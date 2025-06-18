@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewsettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/viewsettings_file.xsd">
+    <viewport zoom="100" x="50" y="50" angle="0"/>
+    <delay value="100"/>
+    <decal filename="background.jpg" centerX="50" centerY="50" rotation="0" scale="1"/>
+    <background-color value="255,255,255"/>
+    <gui-settings-file value="gui-settings.cfg"/>
+</viewsettings> 
