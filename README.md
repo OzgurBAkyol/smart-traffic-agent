@@ -34,30 +34,6 @@ cp .env.example .env
 streamlit run src/app.py
 ```
 
-## Proje Yapısı
-
-```
-smart-traffic-agent/
-├── src/
-│   ├── models/
-│   │   ├── deep_learning.py
-│   │   └── reinforcement_learning.py
-│   ├── simulation/
-│   │   ├── sumo_env.py
-│   │   └── traffic_scenario.py
-│   ├── utils/
-│   │   ├── visualization.py
-│   │   └── metrics.py
-│   └── app.py
-├── data/
-│   ├── scenarios/
-│   └── results/
-├── notebooks/
-├── tests/
-├── requirements.txt
-└── README.md
-```
-
 2000 saniyelik 4 yol ağzı ışık simülasyonunda trafik yoğunluğu 0.50 iken
 
 Pekiştirmeli öğrenme - 
