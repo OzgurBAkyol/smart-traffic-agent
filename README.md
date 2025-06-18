@@ -36,41 +36,42 @@ cp .env.example .env
 streamlit run src/app.py
 ```
 
-********************** 2000 saniyelik 4 yol ağzı ışık simülasyonunda trafik yoğunluğu 0.50 iken : ******************************
+ ## 
+ ********************** 2000 saniyelik 4 yol ağzı ışık simülasyonunda trafik yoğunluğu 0.50 iken :  ******************************
 
-Pekiştirmeli öğrenme - 
-{
-  "waiting_time": 77.75,
-  "queue_length": 0,
-  "average_speed": 6.945,
-  "reward": -4.997
-}
+ Pekiştirmeli öğrenme - 
+ {
+   "waiting_time": 77.75,
+   "queue_length": 0,
+   "average_speed": 6.945,
+   "reward": -4.997
+ }
 
-Derin Öğrenme - 
-{
-"waiting_time":433
-"queue_length":0
-"average_speed":6.945
-"reward":-40.522000000000006
-}
+ Derin Öğrenme - 
+ {
+ "waiting_time":433
+ "queue_length":0
+ "average_speed":6.945
+ "reward":-40.522000000000006
+ } 
 
-********************** 2000 saniyelik karmaşık kavşak modelinde trafik yoğunluğu 0.5 iken : ******************************
+ ********************** 2000 saniyelik karmaşık kavşak modelinde trafik yoğunluğu 0.5 iken : ******************************
 
-Pekiştirmeli öğrenme - 
-{
-  "waiting_time": 63.75,
-  "queue_length": 0.0359,
-  "average_speed": 13.89,
-  "reward": 518.54
-}
+ Pekiştirmeli öğrenme - 
+ {
+   "waiting_time": 63.75,
+   "queue_length": 0.0359,
+   "average_speed": 13.89,
+   "reward": 518.54
+ } 
 
-Derin Öğrenme - 
-{
-  "waiting_time": 69.5,
-  "queue_length": 0.0320,
-  "average_speed": 13.89,
-  "reward": 501.55
-}
+ Derin Öğrenme - 
+ {
+   "waiting_time": 69.5,
+   "queue_length": 0.0320,
+   "average_speed": 13.89,
+   "reward": 501.55
+ }
 
 1. Derin Öğrenme (DL) Modeli
 Kural tabanlı ve veri odaklıdır.
